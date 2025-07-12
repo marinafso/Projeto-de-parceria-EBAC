@@ -28,3 +28,6 @@ BIBLIOGRAFIA E FONTE DOS DADOS UTILIZADOS:
 
     Silva Junior, C. H. L., Pessôa, A. C. M., Carvalho, N. S., Reis, J. B. C., Anderson, L. O., & Aragão, L. E. O. C. (2021). Understanding Brazil’s catastrophic fires: Causes, consequences and policy needed to prevent future tragedies. Environmental Science & Policy, 127, 179–185. https://doi.org/10.1016/j.envsci.2021.10.021
 
+DASHBOARD:
+    https://lookerstudio.google.com/reporting/30fdaf0c-b663-45bb-ad13-821eb3cbd3b6
+
